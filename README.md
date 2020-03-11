@@ -4,10 +4,9 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/Relax-ly/related-homes
+  - https://github.com/Relax-ly/reviews-service
+  - https://github.com/Relax-ly/Header-images
 
 ## Table of Contents
 
